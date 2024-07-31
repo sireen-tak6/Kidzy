@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776243228538",
+    "project_id": "kidzy-80c55",
+    "storage_bucket": "kidzy-80c55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776243228538:android:79f3b27fa6af423e6770c3",
+        "android_client_info": {
+          "package_name": "com.example.version_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776243228538-5k3s19r6spp6dmvcqcjvb17j6l5f11vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqrIdlDcHo2XVIjxARC9WT6xVuKRrafsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776243228538-5k3s19r6spp6dmvcqcjvb17j6l5f11vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
